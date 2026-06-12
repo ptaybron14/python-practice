@@ -4,16 +4,14 @@ Python projects completed while preparing for the WorldQuant University MSc Fina
 
 ## Projects
 
-- Compound Interest Calculator
-- Savings Growth Calculator
-- Investment Return Analyzer
-- Probability Simulator
+### Compound Interest Calculator
+Calculates compound growth based on principal, interest rate, and years.
 
-## Skills
+## Skills Learned
 
-- Python fundamentals
+- Variables
+- User input
+- Type casting
+- Arithmetic expressions
 - Conditionals
-- Loops
-- Functions
-- Lists
-- Statistics
+- Basic program design
